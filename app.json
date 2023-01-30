@@ -30,7 +30,7 @@
             "ONLY_GROUP": {
             "description": "",
             "value": "false" ,    
-            "required": false
+            "required": true
              },
              "REMOVE_BG_API_KEY": {
             "description": "",
